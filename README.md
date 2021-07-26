@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bigbison
-- 👀 I’m interested in Java and full stack development
+- 👀 I’m interested in web and full stack development
 - 🌱 I’m currently learning iOS app development
 - 💞️ I’m looking to collaborate on music processing tools
 - 📫 How to reach me: my keybase account is bigbison
